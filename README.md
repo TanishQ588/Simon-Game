@@ -25,3 +25,4 @@ Each round gets harder as the sequence becomes longer!
 ---
 
 ## 📸 Screenshots  
+<img width="1843" height="898" alt="Screenshot 2025-09-13 110225" src="https://github.com/user-attachments/assets/b6521290-ab0e-4354-a7da-acfb206c4962" />
